@@ -1,0 +1,13 @@
+{
+    "ApiId": "insane",
+    "Name": "Speed Is Life",
+    "Description": "Makes the game increasingly harder, and more demanding for faster movement.",
+    "Authors": [
+        "EladNLG"
+    ],
+    "Contacts": [
+        "JustANormalUser#3370"
+    ],
+    "Version": "1.0",
+    "CustomScripts": []
+}
